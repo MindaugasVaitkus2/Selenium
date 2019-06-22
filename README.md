@@ -1,2 +1,2 @@
 # Selenium
-Different script written for practice on Python with selenium webdriver
+Different scripts written for practice on Python with selenium webdriver
